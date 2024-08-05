@@ -48,7 +48,7 @@ const TrustedCompanies: React.FC = () => {
             variants={itemVariants} 
             className="text-4xl font-bold text-gray-800 mb-16 text-center"
           >
-            Trusted by the world's largest companies
+            Trusted by the worlds largest companies
           </motion.h2>
           
           <motion.div 
