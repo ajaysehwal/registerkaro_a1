@@ -148,7 +148,7 @@ const Testimonial: React.FC = () => {
           Client Testimonials
         </h2>
         <p className="text-gray-600 text-base sm:text-lg text-center lg:text-left">
-          We're proud to have helped businesses achieve their goals. Here's what
+          We are proud to have helped businesses achieve their goals. Here what
           our clients have to say about their experiences working with us.
         </p>
       </div>
